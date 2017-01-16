@@ -1,0 +1,6 @@
+model_checkpoint_path: "net.ckpt-337248"
+all_model_checkpoint_paths: "net.ckpt-336672"
+all_model_checkpoint_paths: "net.ckpt-336816"
+all_model_checkpoint_paths: "net.ckpt-336960"
+all_model_checkpoint_paths: "net.ckpt-337104"
+all_model_checkpoint_paths: "net.ckpt-337248"
